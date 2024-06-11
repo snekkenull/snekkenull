@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on what?
 - 📫 These template emoji are cool.
 
+<a rel="me" href="https://mastodon.social/@vila">Mastodon</a>
