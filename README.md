@@ -4,24 +4,30 @@
 - 💞️ I’m looking for a remote work.
 
 ### ⚒ Skills
-🥪 **Management** / 🥗 **Consultion** / 🍊 **Python** / 🍑 **Prompt**
+🥪 **Operation Management** / 🥗 **Marketing & Policy Consultion** / 🍊 **Python** / 🍍 **Prompt** / 🍰 **Web**
 
 ### 🦖 Experiecne
 
-Hi, Ayo! This is Vila.
-I'm an experienced professional with a rich background in operation management in IT and intellectual property field. 
-Over the years, I've worn many hats including operating supervisor, brand manager, and business product manager.
+ex Crew in South America line
+ex Engineer in a giant mobile device company
+ex Operation Management in a technology services company
+ex Head of Brand in a technology services company
+ex Director of Operations in a Intellectual Property Startup
+ex serial startups in the cultural field
 
-My journey has equipped me with a deep understanding of government policies and specific market consultation. 
-I stay attuned to social dynamics and have a wealth of entrepreneurial experience in the cultural media sector.
+Now, a husband.
 
-Despite the epidemic has taken a lot out of me, I've remained resilient and committed to my path. 
-I have gone through a long way of life, but the coding is not.
-It is a challenge and one of my ways to challenge myself. **As curious like a boy, such is life.**
+"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." -- Samuel Beckett
+
+Fail and go on.
+
+**Such is life.**
 
 ### 🍉 LINK
 [Huggingface](https://huggingface.co/vilarin)
+
 [Mastodon](https://mastodon.social/@vila)
+
 [Buy me a coffee](https://buymeacoffee.com/hivila)
 
 ### 🍏 Contribution
