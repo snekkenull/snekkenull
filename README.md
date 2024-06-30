@@ -9,10 +9,15 @@
 ### 🦖 Experiecne
 
 ex Crew in South America line
+
 ex Engineer in a giant mobile device company
+
 ex Operation Management in a technology services company
+
 ex Head of Brand in a technology services company
+
 ex Director of Operations in a Intellectual Property Startup
+
 ex serial startups in the cultural field
 
 Now, a husband.
