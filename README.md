@@ -6,7 +6,7 @@
 ### ⚒ Skills
 🥪 **Management** / 🥗 **Consultion** / 🍊 **Python** / 🍑 **Prompt**
 
-###🦖Experiecne
+### 🦖 Experiecne
 
 Hi, Ayo! This is Vila.
 I'm an experienced professional with a rich background in operation management in IT and intellectual property field. 
