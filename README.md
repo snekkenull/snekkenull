@@ -15,7 +15,7 @@ Over the years, I've worn many hats including operating supervisor, brand manage
 My journey has equipped me with a deep understanding of government policies and specific market consultation. 
 I stay attuned to social dynamics and have a wealth of entrepreneurial experience in the cultural media sector.
 
-Despite the challenges posed by the pandemic, I've remained resilient and committed to my path. 
+Despite the epidemic has taken a lot out of me, I've remained resilient and committed to my path. 
 I have gone through a long way of life, but the coding is not.
 It is a challenge and one of my ways to challenge myself. **As curious like a boy, such is life.**
 
